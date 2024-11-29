@@ -1,0 +1,9 @@
+dstIp   100.1.1.2
+dstPort 13
+
+srcIp   100.1.1.1
+srcPort 13
+
+protocol TCP
+
+access Allow
